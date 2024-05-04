@@ -24,11 +24,11 @@ ___________
 # Lesson Parts
 
 * Lesson Content (What is Taught):
-Note key skills, concepts and values addressed in each section. Link to your Learning Intentions.
+	* Note key skills, concepts and values addressed in each section. Link to your Learning Intentions.
 * Timing (mins)
 * Teaching Strategies / Learning Experiences:
 (How it is taught)
-Write detailed steps showing what the teacher (T) will do and what students (Ss) will do. Include plans for differentiation (content and skills) and opportunities for assessment.
+	* Write detailed steps showing what the teacher will do and what students will do. Include plans for differentiation (content and skills) and opportunities for assessment.
 * Resources and Organisation
 
 ## INTRODUCTION (link to previous understanding, skill attitudes. Explain new understanding, skills, attitudes to be investigated)
