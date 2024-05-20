@@ -6,13 +6,15 @@ Year 8 lesson plan
 * Five minute frenzy activity
 
 # Material
-* Line Symmetry (5 minutes)
-	* Physical example (5 minutes)
-	* Examples: Geogebra (5 minutes)
+* Triangle Angle Sum
+	* Activity: 10 minutes
+	* Recap: 3 minutes
+	* Example: 3 minutes
 
-* Rotational symmetry (10 minutes)
-	* Physical example: 5 minutes)
-	* Examples: Geogebra link (5 minutes)
+* Exterior Angle
+	* Explanation and linking: 10 minutes
+	* Geogebra link (5 minutes)
+	* Examples: 5 minutes
 
 * Worksheets (remaining time)
 

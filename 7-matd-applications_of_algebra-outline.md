@@ -1,6 +1,6 @@
-7-matd-applications_of_algebra-outline.md
+Year 7 lesson plan
 
-# INDUCTION 
+# INDUCTION
 * Enter + greeting: 5 minutes
 	* Strategy: Settling students outside of classroom
 
@@ -11,7 +11,7 @@
 
 * Applications
 	* Intro: 2 min
-	* Examples: 10 min
+	* Examples: 15 min
 
 # Seatwork
 * Worksheets: 30 min
