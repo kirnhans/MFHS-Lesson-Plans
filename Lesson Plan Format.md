@@ -1,6 +1,7 @@
 # CLASS NAME HERE
 * Date: 
-**Learning Intentions**:
+**Learning Intentions**: Students will learn to:
+*
 
 ## Lesson Parts
 
