@@ -13,6 +13,9 @@ Learning Intentions: Students will learn to
 * "Good morning Year 7MATD"
 * State Lesson Intention (not lesson outline, they get distracted)
 
+### Pre-content
+* Algebra Topic test's after-test: 10 minutes
+* Decimals diagnostic test: 10 minutes 
 
 ### Content: Exposition + Worked Examples
 * Decimals: Place Value and Sorting
@@ -20,6 +23,8 @@ Learning Intentions: Students will learn to
 ### Activity / Seatwork
 * Decimal Spread
 * Sort yourselves
+
+Packup: 10 minutes
 
 ### Resources and Organisation
 * 4 packs of cards (I've preprocessed them)
