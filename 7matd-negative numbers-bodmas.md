@@ -1,6 +1,7 @@
 # 7MATD
 * Date: 24-June
-Learning Intentions: Students will learn to
+
+**Learning Intentions**: Students will learn to
 * Multiply and divide integers
 * Apply Order of Operations (BIDMAS) to integers
 
@@ -28,13 +29,13 @@ Learning Intentions: Students will learn to
 	* 3 students do examples on the whiteboard at back, with full working
 
 ### Activity / Seatwork
-(remaining of period)
+(remainder of period)
 * Tug Harder: Game involving BODMAS on a number line
 	* Set up and how to play: 5-10 minutes
 		* I will be asking one of the more distractible and active students to help me distribute materials
 	* Game time: 25-30 minutes 
 
-# Packup
+### Packup
 5 minutes
 * Collect materials (again, with student help)
 * Announce homework and due date
